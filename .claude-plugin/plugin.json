@@ -1,8 +1,8 @@
 {
   "name": "wikidrive",
   "displayName": "WikiDrive",
-  "version": "2.0.0",
-  "description": "Use your private WikiDrive with Claude: load the rules you saved for a kind of work, and save a rule or a document, or undo a change, when you ask. WikiDrive keeps your own working rules and documents, and works with the other AI apps you connect to it.",
+  "version": "2.1.0",
+  "description": "Use your private WikiDrive with Claude: load the rules you saved for a kind of work, use the Human Agents and prompts you enabled, find or keep documents, and save or undo a rule when you ask. WikiDrive keeps your own working rules and documents, and works with ChatGPT and the other AI apps you connect to it.",
   "author": {
     "name": "WikiDrive",
     "email": "support@wikidrive.app",
@@ -11,7 +11,14 @@
   "homepage": "https://wikidrive.app",
   "repository": "https://github.com/wikidrive-app/wikidrive-claude-plugin",
   "license": "MIT",
-  "keywords": ["prompts", "rules", "documents", "wiki", "writing", "productivity"],
+  "keywords": [
+    "prompts",
+    "rules",
+    "documents",
+    "wiki",
+    "writing",
+    "productivity"
+  ],
   "icon": "./assets/icon.png",
   "documentationUrl": "https://github.com/wikidrive-app/wikidrive-claude-plugin#readme",
   "supportUrl": "https://github.com/wikidrive-app/wikidrive-claude-plugin/issues",
