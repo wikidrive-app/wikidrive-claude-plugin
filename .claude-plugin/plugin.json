@@ -9,12 +9,12 @@
     "url": "https://wikidrive.app"
   },
   "homepage": "https://wikidrive.app",
-  "repository": "https://github.com/dh-quant/wikidrive-claude-plugin",
+  "repository": "https://github.com/wikidrive-app/wikidrive-claude-plugin",
   "license": "MIT",
   "keywords": ["prompts", "rules", "documents", "wiki", "writing", "productivity"],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://github.com/dh-quant/wikidrive-claude-plugin#readme",
-  "supportUrl": "https://github.com/dh-quant/wikidrive-claude-plugin/issues",
+  "documentationUrl": "https://github.com/wikidrive-app/wikidrive-claude-plugin#readme",
+  "supportUrl": "https://github.com/wikidrive-app/wikidrive-claude-plugin/issues",
   "privacyPolicyUrl": "https://wikidrive.app/privacy",
   "termsOfServiceUrl": "https://wikidrive.app/terms"
 }

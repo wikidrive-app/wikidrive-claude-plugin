@@ -76,7 +76,7 @@ The plugin never sends your chat transcripts or files. WikiDrive refuses lines t
 
 ## Support
 
-Open an issue at [github.com/dh-quant/wikidrive-claude-plugin](https://github.com/dh-quant/wikidrive-claude-plugin/issues), or email support@wikidrive.app.
+Open an issue at [github.com/wikidrive-app/wikidrive-claude-plugin](https://github.com/wikidrive-app/wikidrive-claude-plugin/issues), or email support@wikidrive.app.
 
 ## License
 
